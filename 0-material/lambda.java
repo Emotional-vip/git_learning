@@ -36,6 +36,9 @@ public class LambdaDemo1 {
 //        };
 //
 //        Printer printer1 = val -> System.out.println(val);
+//       测试中，哈哈哈哈，主板和自大打发打发打发跌幅达
+//       123343434
+//       we are family 
 
         lambdaDemo1.printSomething(some, val -> System.out.println(val));
     }
