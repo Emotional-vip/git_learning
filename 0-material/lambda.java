@@ -39,6 +39,7 @@ public class LambdaDemo1 {
 //       测试中，哈哈哈哈，主板和自大打发打发打发跌幅达
 //       123343434
 //       we are family 
+//       nuisance 啊发放大镜安抚，对面的傻叉好烦人，傻叉叉
 
         lambdaDemo1.printSomething(some, val -> System.out.println(val));
     }
